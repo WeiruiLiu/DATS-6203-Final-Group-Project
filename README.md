@@ -16,7 +16,7 @@ our repoistory contain 4 folder, which are : Group-Proposal, Final-Group-Project
 4. Code folder contains Final_Project_Age_Ethnicity_Gender_Model.py file, which mainly use for training our model.
 
 ## How It Works
- 1. Download the age_gender.csv from code folder of from [AGE, GENDER AND ETHNICITY (FACE DATA) CSV](https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv)
+ 1. Download the age_gender.csv from [AGE, GENDER AND ETHNICITY (FACE DATA) CSV](https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv)
  2. Run Final_Project_Age_Ethnicity_Gender_Model.py file.
  3. Compare the result to the final report 
  4. Look at the powerpoint in Final Group Preesentation.pdf
