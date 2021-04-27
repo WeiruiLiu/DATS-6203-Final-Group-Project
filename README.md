@@ -8,7 +8,7 @@ face recognition, image classification, and object recognition. This final proje
 the Convolutional Neural Network (CNN) on face recognition tasks for age estimation
 and ethnicity and gender classification. 
 
-## Structure of repoistory:
+## Structure of Repoistory:
 our repoistory contain 4 folder, which are : Group-Proposal, Final-Group-Project-Report, Final-Group-Presentation, and Code.
 1. Group-Proposal folder contains Group Proposal.pdf that basically describe our plan for this project.
 2. Final-Group-Project-Report folder contains our final report for this project.
