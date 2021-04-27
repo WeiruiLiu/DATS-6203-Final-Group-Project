@@ -1,5 +1,8 @@
 # Order for Works
-I. This Code folder contains a python file Final_Project_Age_Ethnicity_Gender_Model.py, which mainly use for training our model and generating the prediction.
+I. This Code folder contains 
+* *Final_Project_Age_Ethnicity_Gender_Model.py* -- use for training model and generating the prediction
+* *Reload_model_for_Analysis.py* -- prediction analysis base on the best models
+* *Test_Images*
 
 II. Before run the Final_Project_Age_Ethnicity_Gender_Model.py, you should download two things:
 
