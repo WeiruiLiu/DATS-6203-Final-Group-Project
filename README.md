@@ -10,10 +10,10 @@ and ethnicity and gender classification.
 
 ## Structure of repoistory:
 our repoistory contain 4 folder, which are : Group-Proposal, Final-Group-Project-Report, Final-Group-Presentation, and Code.
-1.Group-Proposal folder contains Group Proposal.pdf that basically describe our plan for this project.
-2.Final-Group-Project-Report folder contains our final report for this project.
-3.Final-Group-Presentation folder contains the Final Group Preesentation.pdf, which is the powerpoint of our group presentation.
-4.Code folder contains Final_Project_Age_Ethnicity_Gender_Model.py file, which mainly use for training our model.
+1. Group-Proposal folder contains Group Proposal.pdf that basically describe our plan for this project.
+2. Final-Group-Project-Report folder contains our final report for this project.
+3. Final-Group-Presentation folder contains the Final Group Preesentation.pdf, which is the powerpoint of our group presentation.
+4. Code folder contains Final_Project_Age_Ethnicity_Gender_Model.py file, which mainly use for training our model.
 
 ## How It Works
  1. Download the age_gender.csv from code folder of from [AGE, GENDER AND ETHNICITY (FACE DATA) CSV](https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv)
