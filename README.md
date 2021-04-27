@@ -29,5 +29,5 @@ Our repoistory contain 4 folder:
  5. Look at the powerpoint in Final Group Preesentation.pdf.
  
  
- ** If any problem in code, going to Zheyue Wang GitHub click [Here](https://github.com/zheyue/Final-Project-Group1).**
+ **If any problem in code, going to Zheyue Wang GitHub click [Here](https://github.com/zheyue/Final-Project-Group1).**
  
