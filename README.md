@@ -1,8 +1,6 @@
-# DATS-6203-Final-Group-Project
+# Age, Gender, and Ethnicity Prediction and Classification - CNN
 Group 1: Rayna Liu, Zheyue Wang
-
-## Age, Gender, and Ethnicity Prediction and Classification - CNN
-### Introduction
+## Introduction
 ---
 In recent years, the extraction of age, gender, and ethnicity from facial images has
 been widely used in many applications, including biometrics, security controls, and
