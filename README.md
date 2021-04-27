@@ -28,3 +28,6 @@ Our repoistory contain 4 folder:
  4. Compare the result to the final report.
  5. Look at the powerpoint in Final Group Preesentation.pdf.
  
+ 
+ ** If any problem in code, going to Zheyue Wang GitHub click [Here](https://github.com/zheyue/Final-Project-Group1).
+ 
