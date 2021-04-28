@@ -20,6 +20,9 @@ Our repoistory contain 4 folder:
 * **Code**
   * *Final_Project_Age_Ethnicity_Gender_Model.py* -- training file, predict and analysis based on the trained models
   * *Reload_Model_for_Analysis.py* -- predict and analysis based on the best models
+ * **zheyue-wang-individual-project**
+   * *Code*  -- individual work code
+   * *zheyue-wang-final-project-report*   -- individual report
  * **weirui-liu-individual-project**
    * *Code*  -- individual work code
    * *weirui-liu-final-project-report*   -- individual report
