@@ -23,9 +23,9 @@ Our repoistory contain 4 folder:
  * **zheyue-wang-individual-project**
    * *Code*  -- individual work code
    * *zheyue-wang-final-project-report*   -- individual report
- * **weirui-liu-individual-project**
+ * **Rayna-Liu-individual-project**
    * *Code*  -- individual work code
-   * *weirui-liu-final-project-report*   -- individual report
+   * *Rayna-Liu-final-project-report*   -- individual report
 
 ## How It Works
  1. Read the README.md in the Code folder before run Final_Project_Age_Ethnicity_Gender_Model.py file.
