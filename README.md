@@ -1,4 +1,4 @@
-# Age, Gender, and Ethnicity Prediction and Classification - CNN
+# Age, Gender, and Ethnicity Prediction and Classification - CNN in Keras
 Group 1: Rayna Liu, Zheyue Wang
 ## Introduction
 In recent years, the extraction of age, gender, and ethnicity from facial images has
